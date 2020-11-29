@@ -203,7 +203,7 @@ P34:章节名：3 Berkeley，1975-1980
 
     After five years, it was time to write a dissertation.  In theoretical physics,the  custom  was  simply  to  combine  one’s  published  papers,  often  written with  one’s  advisor  or  others,  and  insert  some  amount  of  overview.   But  I had a problem:  I had written no papers at all (the undergrad papers under Tombrello didn’t count). This is extremely rare. ......  I  was  simply  suffering  from  a  lack  of common  sense  and  of  any  collaborative  instinct,  and  an  advisor  who  wasmuch the same. Somehow I cobbled together 130 pages about what I had understood about vortex operators, and related issues of field theory.
 
-大牛临近毕业时也没有文章……呜呜呜，迟迟没有论文的我的焦虑感稍稍减轻了，虽然国内现在的毕业要求是包括发表论文的。
+大牛临近毕业时也没有文章......我的焦虑感稍稍减轻了一点......
 
 P35: 章节名：4 SLAC/Stanford，1980-1982
 这一章主要讲作者在SLAC作博士后的经历。其中有一些内容是关于作者的研究内容的，如超对称、D-terms、对称破缺等等，非专业人士看起来可能会有些费解。
