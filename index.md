@@ -4,7 +4,7 @@ I am a graduate student majored in astrophysics.
 
 I plan to share some of my feelings and experience during my research and some popular science articles and scientific fiction stories (Coming soon!) by myself here.
 
-我打算在这里分享一些自己的研究过程中的经历、收获和感想，同时也会放一些自己创作的科普小文、科幻故事（敬请期待！）。
+我打算在这里记录、分享一些自己的研究过程中的经历、收获和感想，同时也会放一些自己创作的科普小文、科幻故事（敬请期待！）。
 
 
 
@@ -31,6 +31,48 @@ High Reshift Type Ia Supernovae on Cosmological Parameter Estimation and Model S
 
 
 ## Research Feelings
+
+#### 学习统计推断时的自问自答
+
+##### 1.参数估计
+###### Q1: minimum method 和maximum likelihood estimation的区别是什么？
+
+A1：least square method是maximum likelihood method的一个special的分支。当likelihood为Gaussian时， least square method和maximize likelihood一样。
+
+refs：
+1. Data Reduction and Error Analysis for Physical Science
+2. On Model Selection in Cosmology
+3. lectures on cosmology
+
+
+###### Q2：maximum likelihood方法与Bayesian方法中的likelihood的区别是什么？
+A2：两者的likelihood的表达式都是p(d|theta)(其中为d数据，为theta参数)。
+maximum likelihood 方法中的likelihood被视为参数的函数，是人为可调的。我们选择使likelihood最大的参数值作为最佳参数值；
+Bayesian方法中的likelihood是通过观测数据得到的，不是人为可调的。我们通过对真实数据的观测得到likelihood；根据经验或其它原则（此处有不同观点，参见Mathematical Statistics and Data Analysis 3rd - John Rice）确定参数的先验分布；最后，根据Bayes定理，得到参数的后验分布。
+
+refs:
+1.Maximum Likelihood vs. Bayesian Parameter Estimation Ronald J. Williams CSG 220 Spring 2007
+2.What is the difference in Bayesian estimate and maximum likelihood estimate? - StackOverflow
+
+###### Q3: maximum likelihood 方法中选择使likelihood最大的参数值作为最佳参数值。从这种表述看，似乎得到的是确定的参数值，那么文献中出现的参数值的概率分布图是如何得到的？
+A3：因为我们想知道测量参数的误差
+
+ref: emcee manual
+
+###### 2.chi2一家子
+1.chi2分布
+2.minimum chi2 方法
+3.chi2统计量-goodness of fit
+
+(待补充......
+
+##### 3.data和model之间不得不说的故事
+###### Q：用data去constrain model的参数和fit a model to data的区别是什么？
+
+A：前者是模型已经存在，人们通过数据对模型的参数进行限制；后者是先得到了数据，人们去建立模型或者拿已有的模型去fit(解释)它。
+前者可以用Bayesian方法，后者可以用maximum likelihood方法。
+
+
 #### 学习天文学的个人感想
 2018.01.23 20:40:50 
 
@@ -90,8 +132,6 @@ High Reshift Type Ia Supernovae on Cosmological Parameter Estimation and Model S
 这个插曲大概是告诉我独学而无友则孤陋寡闻？
     
     
-
-
 #### _Memories of a Theoretical Physicist_ 阅读笔记与感想
 2018-02-05 20:34:32
 
@@ -134,6 +174,7 @@ P35: 章节名：4 SLAC/Stanford，1980-1982
 
 
 ## Popular Science
+
 #### 程序求解数独的思路
 2019-02-21 16:42:06
 
