@@ -2,7 +2,7 @@
 
 I am a graduate student majored in astrophysics.
 
-I plan to share some of my feelings and experience during my research and some popular science articles by myself here.
+I plan to share some of my feelings and experience during my research and some popular science articles and scientific fiction stories by myself here.
 
 
 ## Research Experience
@@ -47,6 +47,45 @@ High Reshift Type Ia Supernovae on Cosmological Parameter Estimation and Model S
 2020.10
 之前放在别的地方了，现在搬过来。补上了一点关于仪器的内容。想了一想，写下来的似乎都是常识性或者说知识性的东西，即，可以直接在一本导论书里或者维基百科里到看的东西。当时写下来，大概也是因为学到一点什么而迫不及待想说出来？不，大约只是闲得慌而已。当作一个记录好了。
 
+
+
+#### _Memories of a Theoretical Physicist_ 阅读笔记与感想
+之前看到有人推荐这篇文章Memories of a Theoretical Physicist ，作者Joseph Polchinski。今天看微信文章，才知道他于2月2号因病去世了。
+今天把文章下载了下来，开始读了，发现了一些有趣的地方。
+P9：章节名：1 Early years
+
+    The next year, I took Advanced Algebra……It was taught by the football coach
+
+真·数学是体育老师教的（= =开个玩笑）
+
+P21-22：章节名：2 Caltech，1971-1975
+
+    I remember spending a few hours moving some lead blocks with Tom, and thinking I did not want to spend my career moving lead blocks.
+
+“move lead blocks”，是不是可以翻译成搬砖？= =
+
+P23：章节名：2 Caltech，1971-1975
+
+    Another source of particle physics excitement was the discovery of a new long-lived heavy particle J/ψ, something that had not been seen before……Glennys Farrar, proposed that it was a bound state of thecharmed quark with its antiquark. Fairly quickly, the latter was confirmed.
+
+Bing了一下Glennys Farrar，原来是一位女物理学家！她于1971年在普林斯顿获得理论物理博士学位，“ breaking the gender-barrier in physics at Princeton in the process”，当真是我的榜样！
+
+P24：章节名：2 Caltech，1971-1975
+Murray Gell-Mann
+从维基百科上链接到了他的个人主页 ，第一眼觉得老爷爷真慈祥啊！
+然后看到了照片右边的研究领域：Cosmology（宇宙学），The Evolution of Human Languages（人类语言的演化），Quantum Mechanics（量子力学），Regularities in Human History（人类历史的规则性）。“Publication”里列出的最新的论文是2009年发表在Journal of Language Relationship上面的一篇语言学论文，老爷子是一作。
+以前听说，“夸克”名字的出处为James Joyce的Finnegans Wake（《芬尼根的守灵夜》），命名者即为Gell-Mann。现在看来，这位大师同赵元任一样，都是复合型的天才啊！
+
+P34:章节名：3 Berkeley，1975-1980
+
+    After five years, it was time to write a dissertation.  In theoretical physics,the  custom  was  simply  to  combine  one’s  published  papers,  often  written with  one’s  advisor  or  others,  and  insert  some  amount  of  overview.   But  I had a problem:  I had written no papers at all (the undergrad papers under Tombrello didn’t count). This is extremely rare. ......  I  was  simply  suffering  from  a  lack  of common  sense  and  of  any  collaborative  instinct,  and  an  advisor  who  wasmuch the same. Somehow I cobbled together 130 pages about what I had understood about vortex operators, and related issues of field theory.
+
+大牛临近毕业时也没有文章……呜呜呜，迟迟没有论文的我的焦虑感稍稍减轻了，虽然国内现在的毕业要求是包括发表论文的。
+
+P35: 章节名：4 SLAC/Stanford，1980-1982
+这一章主要讲作者在SLAC作博士后的经历。其中有一些内容是关于作者的研究内容的，如超对称、D-terms、对称破缺等等，非专业人士看起来可能会有些费解。
+
+2018年10月21日:终于看完了，断断续续。正如作者自己在结尾所言，在物理学领域他几乎是走一条直线（“taken a rather linear path”），没有旁枝末节（“with few deviations”），我想这大概是指他没有想过去从事其它事业吧。从最初的由科普书（“How and Why Wonder Books”）引起兴趣，到后来从事科学研究，他没有实现早期的创作科幻作品的愿望（“my early science fiction goals”），也没能回答“why there is something rather than nothing”，但他确实在基础科学领域作出了自己贡献（“had an impact on the most fundamental questions of science”）。
 
 
 ## Popular Science
