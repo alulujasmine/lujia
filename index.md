@@ -59,7 +59,7 @@ A3：因为我们想知道测量参数的误差
 
 ref: emcee manual
 
-###### 2.chi2一家子
+##### 2.chi2一家子
 1.chi2分布
 2.minimum chi2 方法
 3.chi2统计量-goodness of fit
