@@ -7,6 +7,23 @@ I plan to share some of my feelings and experience during my research and some p
 
 ## Research Experience
 
+#### Master Dissertation 
+High Reshift Type Ia Supernovae on Cosmological Parameter Estimation and Model Selection
+(Paper in preparation)
+
+#### Cosmology Course Final Project 
+[The CMB Temperature Power Spectra with Varying Dark Energy of State w](https://github.com/jasminelujia/AY15206CosmoFinal)
+
+#### Journal Club Talk 
+[the standard siren measurement of Hubble constant](https://github.com/jasminelujia/standard_siren_H0)
+
+#### Bachelor Thesis 
+[The Technology Systerm of River Wetland Restoration -- Huxi River as a Case Study](https://github.com/jasminelujia/BachelorThesis)
+
+
+
+
+## Research Feelings
 
 
 ## Popular Science
@@ -15,6 +32,6 @@ I plan to share some of my feelings and experience during my research and some p
 ## Science Fiction
 
 
-### [My CV](https://www.overleaf.com/project/5fba014f8fe57d01cd132ec7)
+### My [CV](https://www.overleaf.com/project/5fba014f8fe57d01cd132ec7)
 
 
