@@ -2,7 +2,10 @@
 
 I am a graduate student majored in astrophysics.
 
-I plan to share some of my feelings and experience during my research and some popular science articles and scientific fiction stories by myself here.
+I plan to share some of my feelings and experience during my research and some popular science articles and scientific fiction stories (Coming soon!) by myself here.
+
+我打算在这里分享一些自己的研究过程中的经历、收获和感想，同时也会放一些自己创作的科普小文、科幻故事（敬请期待！）。
+
 
 
 ## Research Experience
