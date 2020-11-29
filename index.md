@@ -1,6 +1,6 @@
 # Welcome to Jia Lu's HomePage!　欢迎来到路佳的个人主页！
 
-I am a graduate student majored in astrophysics.
+I am a graduate student majored in astrophysics. And this is the latest version of [my CV](https://www.overleaf.com/project/5fba014f8fe57d01cd132ec7).
 
 I plan to share some of my feelings and experience during my research and some popular science articles and scientific fiction stories (Coming soon!) by myself here.
 
@@ -10,29 +10,29 @@ I plan to share some of my feelings and experience during my research and some p
 
 ## Research Experience
 
-#### Master Dissertation 
+### Master Dissertation 
 High Reshift Type Ia Supernovae on Cosmological Parameter Estimation and Model Selection
 (Paper in preparation)
 
-#### Cosmology Course Final Project 
+### Cosmology Course Final Project 
 [The CMB Temperature Power Spectra with Varying Dark Energy of State w](https://github.com/jasminelujia/AY15206CosmoFinal)
 
-#### Journal Club Talk 
+### Journal Club Talk 
 [the standard siren measurement of Hubble constant](https://github.com/jasminelujia/standard_siren_H0)
 
-#### Bachelor Thesis 
+### Bachelor Thesis 
 [The Technology Systerm of River Wetland Restoration -- Huxi River as a Case Study](https://github.com/jasminelujia/BachelorThesis)
 
-#### Professional Internship 
+### Professional Internship 
 [Professional Internship in Waste Treatment and Disposal Centers and Industries](https://github.com/jasminelujia/ProInternsh.EnviScience)
 
-#### Term Paper
+### Term Paper
 [Environmental Impact Assessment of Electroplating Production Lines ](https://github.com/jasminelujia/TermPaper-EIA)
 
 
-## Research Feelings
+## Research Feelings and Popular Science
 
-#### 学习统计推断时的自问自答
+### 学习统计推断时的自问自答
 
 ##### 1.参数估计
 ###### Q1: minimum method 和maximum likelihood estimation的区别是什么？
@@ -73,7 +73,29 @@ A：前者是模型已经存在，人们通过数据对模型的参数进行限�
 前者可以用Bayesian方法，后者可以用maximum likelihood方法。
 
 
-#### 学习天文学的个人感想
+### 程序求解数独的思路
+2019-02-21 16:42:06
+
+第一种：
+1.读取方格，检测是否已存在数字，循环81(方格的总数)次。记录下空格的数量N和位置(xi,yi)（i=1～N）；
+2.每个空格(xi,yi)的备选数字为0-9，一共10种可能。N个空格，存在10^N种数字组合，即10^N种填法；
+3.填入一种组合，检验是否合适。是，则完成；否，则填入下一种组合，循环直到满足要求。
+这种方法思路比较简单，但可能会比较慢。
+
+第二种：
+1.读取方格，检验是否已存在数字。记录下已存在的数字c(c=0~9)与位置(xi,yi)。循环完毕，记录下空格的数量N，则已存在的数字总数为81-N；
+2.已存在数字ci所在行、列、九宫格的空格可填入的数字为非c。记每个空格所在的行、列已有的c的数量为m，则每个空格可填入的选择有(10-m)种。总体一共有(10-m)^N种填法；
+3.填入一种组合，检验是否合适。是，则完成；否，则填入下一种组合，循环直到满足要求。
+这种思路稍微复杂一点，逻辑和人填数独的思路相近。由于(10-m)小于10，似乎应该会更快一点，但是可能也不一定。也许可以计算一下m，看在什么范围下第一种方法比较快，什么范围下第二种方法比较快，什么情况下两者一样。
+
+在知网搜索了一下“数独”，在arXiv搜索了一下“sudoku”，发现已有的相关研究还挺多的。
+中文文献可以帮助对于非此研究领域专业人士的爱好者在短时间内了解研究的意义和应用领域、研究的发展历史和现状；英文文献则可以有助于了解目前国际上该领域的学者所关心的问题和研究的现状。（2019年4月29日）
+
+翻了一下《Python科学计算》，发现682页给出了一个程序求解数独的实例。 
+(无关的话：因为打算卖掉这本书而翻了一下，却有意外收获，也算很意外了吧……
+
+
+### 学习天文学的个人感想
 2018.01.23 20:40:50 
 
 根据研究内容来分类。按照研究对象的尺度从小到大的顺序，天文学的研究方向包括：行星科学、恒星与分子云、高能天体物理现象、星系大尺度结构、宇宙学。行星科学与地球科学有较多交叉，宇宙学与物理学有相对较多的交叉。
@@ -93,7 +115,7 @@ A：前者是模型已经存在，人们通过数据对模型的参数进行限�
 之前放在别的地方了，现在搬过来。补上了一点关于仪器的内容。想了一想，写下来的似乎都是常识性或者说知识性的东西，即，可以直接在一本导论书里或者维基百科里到看的东西。当时写下来，大概也是因为学到一点什么而迫不及待想说出来？不，大约只是闲得慌而已。当作一个记录好了。
 
 
-#### 学物理时的收获与感想
+### 学物理时的收获与感想
 2018-02-02 12:24:58
 
 我们为什么存在？
@@ -131,8 +153,24 @@ A：前者是模型已经存在，人们通过数据对模型的参数进行限�
     
 这个插曲大概是告诉我独学而无友则孤陋寡闻？
     
-    
-#### _Memories of a Theoretical Physicist_ 阅读笔记与感想
+
+### My Way of Programming
+2018-07-23 21:40:24
+
+最早接触编程是在大学的时候，大二上学期选修C程序设计课程。（或者严格一点说是高中时数学课上学习算法结构？）当时，理论课上，我因为倍觉枯燥而没有认真听课，课下也没有温习，于是听不懂老师讲的课了；实验课上，也多半是复制老师给的源代码然后稀里糊涂的运行。期末考试前我才着了慌，熬夜到凌晨三点，才勉强没有挂掉。大二下学期，周围很多同学报名考计算机二级C，我也报名了。这时候，我开始系统性地学习了一下C语言，主要是看书、练习。后来二级考过了，分数比C程序课程的期末成绩还好很多。再后来，一直到本科毕业，我没有遇到需要使用编程的情况，C也渐渐生疏了。
+
+大四的时候，我打算跨专业考研，去读物理。后来读了天体物理。研一下学期，一些专业课需要用编程来解决问题。我想起以前学习C语言的痛苦经历，完全不想去碰编程。最后，因为很多作业需要编程来解决，我不得不学了一点python。
+
+研二上学期，我开始接触课题。很多东西都需要用到编程。我开始系统地学习python，用的书是《Python编程：从入门到实践》，我跟着书上的课程一步一步的学习，竟感觉非常轻松。后来，看了一点《LaTeX入门》，当我成功地输出第一个pdf文件时，心里有一点兴奋。渐渐地觉得不那么讨厌编程了，因为它很准确（错了一个字母甚至标点都可能导致bug）、很忠诚（只要输入正确的命令，它就能执行出你想要的结果）。
+
+寒假的时候，去图书馆，无意中看到了《Mathematica与大学物理计算》这本书，觉得很好奇，加之本科时旁听物理系的课程，老师提到过mathematica，我于是借了一本书回去看。下载了mathematica试用版，边看书边学习。发现mathematica非常简单，其语言形式和自然语言很像，数学表达式也和书本上的自然表达式几乎一致。我很开心地学了一段时间，直到15天试用期结束= =。书内还有一些作者对物理的思考与体会，比如：被物理的”美貌“吸引，进来之后才发现完全不是如此；我们将实际问题抽象成物理模型，我们对问题的解答实际上是对模型的解答，未必是对真实物理状态的解答，“中间的差别大小取决于模型接近真实系统的程度”……让我觉得很受启发。
+
+两个星期前，我旁听了“天文统计学与R语言”暑期学校的课程。这是我读研以后第一次系统地去学习编程类课程（学校开了“Linux系统和IDL”的课程，我当时觉得不感兴趣而没有选= =），感觉R语言和mathematica很像，学起来也很开心。
+
+现在，因为经常使用，编程似乎成了一件很日常的事情。有时候，我觉得，敲几行字母，就能画出超棒的图形；给几个命令，系统却type出一大串，编程是一件很酷的事情。有时候，我觉得，编程好无趣、枯燥、没有感情、没有美感，我不想作程序yuan。（关于美感这一点，高德纳是认为编程是一种艺术的。也许，我还没有到能体会到美感的水平；也许，我就是觉得这件事情枯燥，跟水平无关。）
+
+
+### _Memories of a Theoretical Physicist_ 阅读笔记与感想
 2018-02-05 20:34:32
 
 之前看到有人推荐这篇文章Memories of a Theoretical Physicist ，作者Joseph Polchinski。今天看微信文章，才知道他于2月2号因病去世了。
@@ -173,35 +211,8 @@ P35: 章节名：4 SLAC/Stanford，1980-1982
 2018年10月21日:终于看完了，断断续续。正如作者自己在结尾所言，在物理学领域他几乎是走一条直线（“taken a rather linear path”），没有旁枝末节（“with few deviations”），我想这大概是指他没有想过去从事其它事业吧。从最初的由科普书（“How and Why Wonder Books”）引起兴趣，到后来从事科学研究，他没有实现早期的创作科幻作品的愿望（“my early science fiction goals”），也没能回答“why there is something rather than nothing”，但他确实在基础科学领域作出了自己贡献（“had an impact on the most fundamental questions of science”）。
 
 
-## Popular Science
-
-#### 程序求解数独的思路
-2019-02-21 16:42:06
-
-第一种：
-1.读取方格，检测是否已存在数字，循环81(方格的总数)次。记录下空格的数量N和位置(xi,yi)（i=1～N）；
-2.每个空格(xi,yi)的备选数字为0-9，一共10种可能。N个空格，存在10^N种数字组合，即10^N种填法；
-3.填入一种组合，检验是否合适。是，则完成；否，则填入下一种组合，循环直到满足要求。
-这种方法思路比较简单，但可能会比较慢。
-
-第二种：
-1.读取方格，检验是否已存在数字。记录下已存在的数字c(c=0~9)与位置(xi,yi)。循环完毕，记录下空格的数量N，则已存在的数字总数为81-N；
-2.已存在数字ci所在行、列、九宫格的空格可填入的数字为非c。记每个空格所在的行、列已有的c的数量为m，则每个空格可填入的选择有(10-m)种。总体一共有(10-m)^N种填法；
-3.填入一种组合，检验是否合适。是，则完成；否，则填入下一种组合，循环直到满足要求。
-这种思路稍微复杂一点，逻辑和人填数独的思路相近。由于(10-m)小于10，似乎应该会更快一点，但是可能也不一定。也许可以计算一下m，看在什么范围下第一种方法比较快，什么范围下第二种方法比较快，什么情况下两者一样。
-
-在知网搜索了一下“数独”，在arXiv搜索了一下“sudoku”，发现已有的相关研究还挺多的。
-中文文献可以帮助对于非此研究领域专业人士的爱好者在短时间内了解研究的意义和应用领域、研究的发展历史和现状；英文文献则可以有助于了解目前国际上该领域的学者所关心的问题和研究的现状。（2019年4月29日）
-
-翻了一下《Python科学计算》，发现682页给出了一个程序求解数独的实例。 
-(无关的话：因为打算卖掉这本书而翻了一下，却有意外收获，也算很意外了吧……
-
-
-
 ## Science Fiction
+Coming soon !
 
-
-### My CV
-[The Latest Version](https://www.overleaf.com/project/5fba014f8fe57d01cd132ec7)
 
 
