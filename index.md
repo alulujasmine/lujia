@@ -1,6 +1,12 @@
-# Welcome to Jia Lu's HomePage!　欢迎来到路佳的个人主页！
+# Welcome to Jia Lu's HomePage!　
+# 欢迎来到路佳的个人主页！
 
-I am a graduate student majored in astrophysics. And this is the latest version of [my CV](https://www.overleaf.com/read/rpvywxzbtmtw).
+I am a graduate student majored in astrophysics. 
+
+And this is the latest version of [my CV](https://www.overleaf.com/read/rpvywxzbtmtw).
+
+我最新版本的简历可见于：[my CV](https://www.overleaf.com/read/rpvywxzbtmtw).
+
 
 I plan to share some of my feelings and experience during my research and some popular science articles and scientific fiction stories (Coming soon!) by myself here.
 
@@ -32,7 +38,7 @@ High Reshift Type Ia Supernovae on Cosmological Parameter Estimation and Model S
 
 ## Research Feelings and Popular Science
 
-### 学习统计推断时的自问自答
+### **学习统计推断时的自问自答**
 
 ##### 1.参数估计
 ###### Q1: minimum method 和maximum likelihood estimation的区别是什么？
@@ -73,7 +79,7 @@ A：前者是模型已经存在，人们通过数据对模型的参数进行限�
 前者可以用Bayesian方法，后者可以用maximum likelihood方法。
 
 
-### 程序求解数独的思路
+### **程序求解数独的思路**
 2019-02-21 16:42:06
 
 第一种：
@@ -95,7 +101,7 @@ A：前者是模型已经存在，人们通过数据对模型的参数进行限�
 (无关的话：因为打算卖掉这本书而翻了一下，却有意外收获，也算很意外了吧……
 
 
-### 学习天文学的个人感想
+### **学习天文学的个人感想**
 2018.01.23 20:40:50 
 
 根据研究内容来分类。按照研究对象的尺度从小到大的顺序，天文学的研究方向包括：行星科学、恒星与分子云、高能天体物理现象、星系大尺度结构、宇宙学。行星科学与地球科学有较多交叉，宇宙学与物理学有相对较多的交叉。
@@ -115,7 +121,7 @@ A：前者是模型已经存在，人们通过数据对模型的参数进行限�
 之前放在别的地方了，现在搬过来。补上了一点关于仪器的内容。想了一想，写下来的似乎都是常识性或者说知识性的东西，即，可以直接在一本导论书里或者维基百科里到看的东西。当时写下来，大概也是因为学到一点什么而迫不及待想说出来？不，大约只是闲得慌而已。当作一个记录好了。
 
 
-### 学物理时的收获与感想
+### **学物理时的收获与感想**
 2018-02-02 12:24:58
 
 我们为什么存在？
