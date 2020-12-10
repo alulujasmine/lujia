@@ -18,7 +18,9 @@ The Content is (目录为)：
 
 **Research Feelings and Popular Science**
 
-**scientific fiction**
+**Scientific Fiction**
+
+**Hobbies**
 
 
 ## Research Experience
@@ -226,6 +228,21 @@ P35: 章节名：4 SLAC/Stanford，1980-1982
 
 ## Scientific Fiction
 Coming soon !
+
+
+
+## Hobbies
+[Drawing](https://github.com/jasminelujia/MyPaintings)
+
+[Reading](https://book.douban.com/people/kylinfrost/)
+
+Gardening
+
+Running
+
+TableTennis
+
+
 
 
 
