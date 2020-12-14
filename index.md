@@ -232,7 +232,7 @@ Coming soon !
 
 
 ## Hobbies
-[Drawing](https://github.com/jasminelujia/MyPaintings)
+[Drawing](https://www.douban.com/photos/album/1876671807/)
 
 [Reading](https://book.douban.com/people/kylinfrost/)
 
