@@ -1,8 +1,8 @@
-# lujia.github.io
+# https://alulujasmine.github.io/lujia/
 LuJia的个人主页
 
 This is my homepage.
-The content is:
+And the content is:
 Research Experience
 Research Feelings and Popular Science
 Science Fiction
