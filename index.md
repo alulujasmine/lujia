@@ -232,9 +232,9 @@ Coming soon !
 
 
 ## Hobbies
-[Drawing](https://www.douban.com/photos/album/1876671807/)
+Drawing
 
-[Reading](https://book.douban.com/people/kylinfrost/)
+Reading
 
 Gardening
 
