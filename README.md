@@ -1,6 +1,6 @@
 # Homepage of Jia Lu 
 
-https://alulujasmine.github.io/lujia/
+https://alulujasmine.github.io/jialu/
 
 This is my homepage.
 And the content is:
