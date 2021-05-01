@@ -1,5 +1,5 @@
-# Welcome to Jia Lu's HomePage!　
-# 欢迎来到路佳的个人主页！
+## Welcome to Jia Lu's HomePage!　
+### 欢迎来到路佳的个人主页！
 
 I am a graduate student majored in astrophysics. 
 
