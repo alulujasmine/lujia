@@ -3,9 +3,9 @@
 
 I am a graduate student majored in astrophysics. 
 
-And this is the latest version of [my CV](https://www.overleaf.com/read/rpvywxzbtmtw).
+This is the latest version of [my CV](https://github.com/alulujasmine/home/blob/gh-pages/CV_JiaLu.pdf).
 
-我最新版本的简历可见于：[my CV](https://www.overleaf.com/read/rpvywxzbtmtw).
+这是我的 [最新版本的简历](https://github.com/alulujasmine/home/blob/gh-pages/CV_JiaLu.pdf).
 
 
 I plan to share some of my feelings and experience during my research and some popular science articles and scientific fiction stories (Coming soon!) by myself here.
